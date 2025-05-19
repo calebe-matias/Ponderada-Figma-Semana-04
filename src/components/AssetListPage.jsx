@@ -28,7 +28,7 @@ export default function AssetListPage() {
   const data = [
     { type: 'header' },
     ...categories.map(label => ({ type: 'item', label })),
-    { type: 'action', label: 'Excluir todas as categorias' },
+    { type: 'action', label: 'Desfavoritar todas as categorias' },
   ];
 
   const handleItemClick = (label) => {
