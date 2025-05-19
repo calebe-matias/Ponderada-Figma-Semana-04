@@ -58,7 +58,6 @@ cd Ponderada-Figma-Semana-04
 **2. Instalar as dependências:**
 
 ```bash
-cd projeto-figma
 npm install
 ```
 
