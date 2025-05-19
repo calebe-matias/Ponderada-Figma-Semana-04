@@ -1,4 +1,4 @@
-# Exercício de UX/UI com Figma e React – Semana 04
+# Exercício de UX/UI com Figma – Semana 04
 
 ### **Pergunta:**
 
