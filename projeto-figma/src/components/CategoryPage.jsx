@@ -44,7 +44,6 @@ export default function CategoryPage() {
     <Layout style={{ minHeight: '100vh', background: '#f0f2f5' }}>
       <MainHeader
         title={title}
-        subtitle="Explore nossa seleção de fundos para investir com segurança e boa rentabilidade."
       />
 
       <Content style={{ padding: isMobile ? 8 : 16 }}>

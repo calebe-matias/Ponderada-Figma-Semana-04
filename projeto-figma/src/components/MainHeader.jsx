@@ -7,7 +7,7 @@ import { useNavigate } from 'react-router-dom';
 const { Header } = Layout;
 const { useBreakpoint } = Grid;
 
-export default function MainHeader({ title, subtitle, bg = '#004aad', color = '#fff' }) {
+export default function MainHeader({ title, subtitle, bg = '#0B2859', color = '#fff' }) {
   const nav = useNavigate();
   const screens = useBreakpoint();
   const isMobile = !screens.sm;
