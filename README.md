@@ -33,8 +33,8 @@ Calebe Matias
 
 ### **Relato (Processo, Dificuldades e Resultados):**
 
-O objetivo da ponderada era criar um componente de interface mobile no Figma e desenvolvê-lo utilizando React Native ou simulação via HTML/CSS. Conversei com a professora Bruna, que permitiu o uso de React caso tivesse dificuldade com a feature de Figma to Code.
-Uma descrição do componente que pensei e criei no Figma é uma página que exibe categorias favor de ativos favoritos inspiradas no app BTG Investimentos. O componente mostra apenas os nomes das categorias e uma opção para desfavoritar categorias, mas a ideia é que ao clicar em uma delas, o usuário seja direcionado para uma tela com os ativos daquela categoria. O componente foi projetado para ser responsivo, adaptando-se a diferentes tamanhos de tela, mas foquei principalmente no design Mobile.
+O objetivo da ponderada era criar um componente de interface mobile no Figma e desenvolvê-lo utilizando React Native ou simulação via HTML/CSS. Conversei com a professora Bruna, que permitiu o uso de React caso tivesse dificuldade com a feature de Figma to Code.<br>
+Uma descrição para o componente que pensei e criei no Figma é: uma página que exibe categorias de ativos favoritos inspiradas no app BTG Investimentos. O componente mostra apenas os nomes das categorias e uma opção para desfavoritar categorias, mas a ideia é que, ao clicar em uma delas, o usuário seja direcionado para uma tela com os ativos daquela categoria. O componente foi projetado para ser responsivo, mas foquei principalmente no design Mobile.
 
 Usei o Figma para prototipar o componente, aplicando Auto Layout e organizando cuidadosamente as camadas e estilos, garantindo que todas as layers fossem nomeadas adequadamente e os estilos salvos fossem reutilizáveis.
 
