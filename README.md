@@ -2,12 +2,24 @@
 
 ### **Pergunta:**
 
-Em duplas, projetar um componente de interface para app mobile no Figma e desenvolvê-lo utilizando React Native ou simulação via HTML/CSS. O design deve utilizar Auto Layout e Dev Mode para guiar a implementação com base nas medidas, estilos e estrutura de código gerada.
+EXERCÍCIO: Em duplas, projetar um componente de interface para app mobile no Figma e desenvolvê-lo (usando React Native ou simulação via HTML/CSS). O design deve usar Auto Layout e o Dev Mode para guiar a implementação com base nas medidas, estilos e estrutura de código gerada.
+
+ENTREGA NA ADALOVE: autores, link repositório (+ instruções), link Figma e breve relato (deu certo? dificuldades?).
+
+REQUISITOS:
+
+1. Componente no Figma – protótipo componentizado, com Auto Layout, conteúdo mockado (sem Lorem Ipsum) e alta fidelidade.
+2. Layers e estilos organizados – uso de estilos salvos e layers nomeadas corretamente.
+3. Uso do Dev Mode – para inspecionar medidas, coletar estilos e gerar código base.
+4. Codificação fiel ao layout (com ajustes manuais se necessário, usando React Native ou HTML/CSS).
+5. Código limpo e comentado.
+
+---
 
 ### **Autores:**
 
 Calebe Matias
-*(O projeto foi desenvolvido individualmente.)*
+*(Fiz sozinho)*
 
 ### **Link do Repositório:**
 
@@ -36,21 +48,21 @@ Além do componente específico solicitado, aproveitei para implementar outras t
 
 Para executar o projeto localmente, basta seguir os passos abaixo (necessário ter Node.js instalado):
 
-**1. Clone o repositório:**
+**1. Clonar o repositório:**
 
 ```bash
 git clone https://github.com/calebe-matias/Ponderada-Figma-Semana-04
 cd Ponderada-Figma-Semana-04
 ```
 
-**2. Instale as dependências:**
+**2. Instalar as dependências:**
 
 ```bash
 cd projeto-figma
 npm install
 ```
 
-**3. Inicie o servidor:**
+**3. Iniciar o servidor:**
 
 ```bash
 npm run dev
